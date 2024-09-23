@@ -14,7 +14,5 @@ public class BaseBiblioteca {
         System.out.println("Nombre libro Dos: " + libroDos.getNombre());
         libroDos.setNombre("Cronica de una muerte anunciada");
         System.out.println("Nombre de libro modificado: " + libroDos.getNombre());
-
-
     }
 }
